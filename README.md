@@ -1,4 +1,4 @@
-# Esp32u Red Hat Pro Max — 1.3″ OLED Display
+# ESP32U Red Hat Pro Max — 1.3″ OLED Display
 
 [![Buy on HackShopBD](https://img.shields.io/badge/Store-HackShopBD-red?style=for-the-badge&logo=shopify)](https://hackshopbd.com/product/esp32u-red-hat-pro-max-oled/)
 > 🛒 **Official Product Link:** [ESP32-U Red Hat Pro Max OLED on HackShopBD](https://hackshopbd.com/product/esp32u-red-hat-pro-max-oled/)
@@ -70,7 +70,7 @@
 29. Evil Twin + Live Deauth
 30. Custom Evil Twin SSID
 31. Custom HTML Template Upload
-32. Pre‑Built Phishing Templates *(Supported Templates: Facebook, Facebook 2FA, Free Fire, Gmail, Google, Instagram, PUBG, TikTok, and TP-Link Admin Login)*[cite: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+32. Pre‑Built Phishing Templates (Supported Templates: Facebook, Facebook 2FA, Free Fire, Gmail, Google, Instagram, PUBG, TikTok, and TP-Link Admin Login)
 33. Live Password Tester
 34. MAC Filter Bypass
 35. Router Admin Page Phishing
