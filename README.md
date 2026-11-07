@@ -1,4 +1,4 @@
-# ES32U Red Hat Pro Max — 1.3″ OLED Display
+# Esp32u Red Hat Pro Max — 1.3″ OLED Display
 
 [![Buy on HackShopBD](https://img.shields.io/badge/Store-HackShopBD-red?style=for-the-badge&logo=shopify)](https://hackshopbd.com/product/esp32u-red-hat-pro-max-oled/)
 > 🛒 **Official Product Link:** [ESP32-U Red Hat Pro Max OLED on HackShopBD](https://hackshopbd.com/product/esp32u-red-hat-pro-max-oled/)
@@ -13,7 +13,7 @@
 ## 🎓 Package Includes
 * Dedicated Video Course — How To Use Red Hat Pro Max
 * Step‑by‑Step Setup & First Boot Guide
-* Feature‑by‑Feature Walkthrough (All 85 Features)
+* Feature‑by‑Feature Walkthrough (All 86 Features)
 * Legal & Ethical Usage Module
 * Lifetime Course Access
 
@@ -70,78 +70,79 @@
 29. Evil Twin + Live Deauth
 30. Custom Evil Twin SSID
 31. Custom HTML Template Upload
-32. Pre‑Built Phishing Templates
+32. Pre‑Built Phishing Templates *(Supported Templates: Facebook, Facebook 2FA, Free Fire, Gmail, Google, Instagram, PUBG, TikTok, and TP-Link Admin Login)*[cite: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 33. Live Password Tester
 34. MAC Filter Bypass
 35. Router Admin Page Phishing
 36. Whitelisted MAC Capture
+37. Rogue Access Point
 
 ## 🔓 Brute Force & Cracking
-37. Dictionary Brute Force
-38. Router Config.bin Extractor
-39. RouterSploit Framework
-40. Router Port and Vulnerability Scanner
-41. Slowloris DoS Attack
-42. Client Mode (Control From Router)
+38. Dictionary Brute Force
+39. Router Config.bin Extractor
+40. RouterSploit Framework
+41. Router Port and Vulnerability Scanner
+42. Slowloris DoS Attack
+43. Client Mode (Control From Router)
 
 ## 🤝 Handshake & PMKID
-43. Handshake Capture
-44. PCAP / HCCAPX Export
-45. PMKID Hash Capture
-46. On‑Device PMKID Cracking
-47. Password Recovery from PMKID
-48. PMKID Evil Twin Verification
+44. Handshake Capture
+45. PCAP / HCCAPX Export
+46. PMKID Hash Capture
+47. On‑Device PMKID Cracking
+48. Password Recovery from PMKID
+49. PMKID Evil Twin Verification
 
 ## 🌐 WPS
-49. WPS Push‑Button WiFi Password Recovery
-50. WPS Evil Twin Attack
+50. WPS Push‑Button WiFi Password Recovery
+51. WPS Evil Twin Attack
 
 ## 🔍 Reconnaissance
-51. Wi‑Fi Scanner + Probe Capture
-52. User MAC Sniffer
-53. Hidden SSID Reveal
-54. Live Radar HUDs
+52. Wi‑Fi Scanner + Probe Capture
+53. User MAC Sniffer
+54. Hidden SSID Reveal
+55. Live Radar HUDs
 
 ## 📶 Wi‑Fi Extender
-55. Range Extender / Repeater Mode
-56. Extender Dashboard (Port 8080)
-57. Extender SSID / Password Editor
-58. Hide Extender SSID
-59. Extender MAC Spoofing
+56. Range Extender / Repeater Mode
+57. Extender Dashboard (Port 8080)
+58. Extender SSID / Password Editor
+59. Hide Extender SSID
+60. Extender MAC Spoofing
 
 ## 📺 IR Remote Suite
-60. IR Signal Capture
-61. IR Signal Replay
-62. Web IR Console
-63. IR Remote Tester
-64. IR Remote Jammer
-65. IR Jammer Detector
-66. Universal AC Remote (25+ Brands)
+61. IR Signal Capture
+62. IR Signal Replay
+63. Web IR Console
+64. IR Remote Tester
+65. IR Remote Jammer
+66. IR Jammer Detector
+67. Universal AC Remote (25+ Brands)
 
 ## 🦷 BLE / Bluetooth Suite
-67. BLE Media Remote
-68. BLE Keyboard Mode
-69. BLE Mouse Control
-70. BLE Link Opener
-71. Bluetooth Ducky (HID Attack)
-72. BLE PIN Attack (4 / 6‑Digit)
-73. BLE Lock Screen Prank
-74. Bluetooth Spam (iOS / Android / Samsung / Xiaomi / Windows)
-75. Sour Apple BLE Flood
-76. BLE Flooder (Custom Name)
-77. AirTag Sniffer
-78. AirTag Clone
+68. BLE Media Remote
+69. BLE Keyboard Mode
+70. BLE Mouse Control
+71. BLE Link Opener
+72. Bluetooth Ducky (HID Attack)
+73. BLE PIN Attack (4 / 6‑Digit)
+74. BLE Lock Screen Prank
+75. Bluetooth Spam (iOS / Android / Samsung / Xiaomi / Windows)
+76. Sour Apple BLE Flood
+77. BLE Flooder (Custom Name)
+78. AirTag Sniffer
+79. AirTag Clone
 
 ## 🎮 Built‑In Games
-79. Snake
-80. Dino Runner
-81. Tetris
-82. Meteorite Shooter
-83. Flappy Bird
+80. Snake
+81. Dino Runner
+82. Tetris
+83. Meteorite Shooter
+84. Flappy Bird
 
 ## ⚡ Utility
-84. Captive Portal (DNS Hijack)
-85. Prank AP Mode
+85. Captive Portal (DNS Hijack)
+86. Prank AP Mode
 
 ---
 
