@@ -1,4 +1,4 @@
-# ESP32U Red Hat Pro Max | 1.3″ OLED Display
+# ES32U Red Hat Pro Max — 1.3″ OLED Display
 
 [![Buy on HackShopBD](https://img.shields.io/badge/Store-HackShopBD-red?style=for-the-badge&logo=shopify)](https://hackshopbd.com/product/esp32u-red-hat-pro-max-oled/)
 > 🛒 **Official Product Link:** [ESP32-U Red Hat Pro Max OLED on HackShopBD](https://hackshopbd.com/product/esp32u-red-hat-pro-max-oled/)
@@ -142,3 +142,11 @@
 ## ⚡ Utility
 84. Captive Portal (DNS Hijack)
 85. Prank AP Mode
+
+---
+
+## 📞 Support & Official Channels
+* **WhatsApp:** [+8801748819552](https://wa.me/8801748819552)
+* **YouTube:** [@hackshopbd](https://www.youtube.com/@hackshopbd)
+* **Facebook:** [Foysal Tips And Tricks](https://www.facebook.com/FoysalTipsAndTricks)
+* **TikTok:** [@hackshopbd.com](https://www.tiktok.com/@hackshopbd.com)
